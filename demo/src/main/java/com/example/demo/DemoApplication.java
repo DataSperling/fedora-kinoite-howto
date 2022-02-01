@@ -15,6 +15,6 @@ public class DemoApplication {
 	}
 
 	@GetMapping
-	public List<String> greeting() { return List.of("Hello", "nice to welcome you!");}
+	public List<String> greeting() { return List.of("Hello", "World!");}
 
 }
