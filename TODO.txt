@@ -1,3 +1,0 @@
-edit readme.md
-add project description
-add thumnail
